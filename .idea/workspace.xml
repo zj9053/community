@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95a8dff2-e423-4780-8fff-67782831b628" name="Default Changelist" comment="" />
+    <list default="true" id="95a8dff2-e423-4780-8fff-67782831b628" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +62,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1V0SXty9JaGaxdunpaYnLX5nX9f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,7 +89,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunManager" selected="Spring Boot.CommunityApplication (1)">
     <configuration name="CommunityApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -137,12 +141,24 @@
       <option name="presentableId" value="Default" />
       <updated>1576388561739</updated>
       <workItem from="1576388570034" duration="6062000" />
-      <workItem from="1576394866487" duration="2386000" />
+      <workItem from="1576394866487" duration="3492000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Message">
+      <created>1576404385079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576404385080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Message" />
   </component>
   <component name="WindowStateProjectService">
     <state x="81" y="0" width="1174" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576391449304">
@@ -153,10 +169,18 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="260" y="3" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.768@0.0.1366.768" timestamp="1576391448333" />
-    <state x="777" y="161" key="FileChooserDialogImpl" timestamp="1576404258845">
+    <state x="679" y="0" width="687" height="768" key="CommitChangelistDialog2" timestamp="1576404383047">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="777" y="161" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1576404258845" />
+    <state x="679" y="0" width="687" height="768" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1576404383047" />
+    <state x="539" y="141" key="EnvironmentVariablesDialog" timestamp="1576404984892">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="539" y="141" key="EnvironmentVariablesDialog/0.0.1366.768@0.0.1366.768" timestamp="1576404984892" />
+    <state x="777" y="161" key="FileChooserDialogImpl" timestamp="1576405053563">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="777" y="161" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1576405053563" />
     <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1576394832166">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -189,10 +213,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="179" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1576394832166" />
-    <state x="441" y="30" width="916" height="738" key="SettingsEditor" timestamp="1576404221550">
+    <state x="347" y="12" width="916" height="738" key="SettingsEditor" timestamp="1576405059855">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="441" y="30" width="916" height="738" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1576404221550" />
+    <state x="347" y="12" width="916" height="738" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1576405059855" />
     <state x="482" y="160" key="chooseDestDirectoryDialog" timestamp="1576390101609">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
