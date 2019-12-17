@@ -2,27 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a8dff2-e423-4780-8fff-67782831b628" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/community.vpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/community.vpp.bak_000f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/AuthorizeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/AccessTokenDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/dto/GithubUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/provider/GithubProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/life/majiang/community/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/life/majiang/community/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/life/majiang/community/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/community.iml" beforeDir="false" afterPath="$PROJECT_DIR$/community.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -89,6 +79,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -110,7 +101,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -168,7 +159,10 @@
       <updated>1576388561739</updated>
       <workItem from="1576388570034" duration="6062000" />
       <workItem from="1576394866487" duration="5492000" />
-      <workItem from="1576412111276" duration="2155000" />
+      <workItem from="1576412111276" duration="6788000" />
+      <workItem from="1576502108912" duration="504000" />
+      <workItem from="1576502860739" duration="6802000" />
+      <workItem from="1576589078493" duration="2611000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Message">
       <created>1576404385079</created>
@@ -184,6 +178,7 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit Message" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit Message" />
   </component>
@@ -192,6 +187,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="81" y="0" width="1174" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1576391449304" />
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1576508683307">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1576508683307" />
     <state x="260" y="3" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1576391448333">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -208,42 +207,42 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="777" y="161" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1576405053563" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1576414315694">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1576591712987">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1576414315694" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1576414315694">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1576591712987" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1576591712987">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1576414315694" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1576414315694">
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1576591712987" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1576591712987">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1576414315694" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1576414315694">
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1576591712987" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1576591712987">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1576414315694" />
-    <state width="1322" height="179" key="GridCell.Tab.1.bottom" timestamp="1576414315695">
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1576591712987" />
+    <state width="1322" height="179" key="GridCell.Tab.1.bottom" timestamp="1576591712987">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1576414315695" />
-    <state width="1322" height="179" key="GridCell.Tab.1.center" timestamp="1576414315694">
+    <state width="1322" height="179" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1576591712987" />
+    <state width="1322" height="179" key="GridCell.Tab.1.center" timestamp="1576591712987">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1576414315694" />
-    <state width="1322" height="179" key="GridCell.Tab.1.left" timestamp="1576414315694">
+    <state width="1322" height="179" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1576591712987" />
+    <state width="1322" height="179" key="GridCell.Tab.1.left" timestamp="1576591712987">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1576414315694" />
-    <state width="1322" height="179" key="GridCell.Tab.1.right" timestamp="1576414315694">
+    <state width="1322" height="179" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1576591712987" />
+    <state width="1322" height="179" key="GridCell.Tab.1.right" timestamp="1576591712987">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1576414315694" />
-    <state x="347" y="12" width="916" height="738" key="SettingsEditor" timestamp="1576405059855">
+    <state width="1322" height="179" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1576591712987" />
+    <state x="347" y="12" width="916" height="738" key="SettingsEditor" timestamp="1576506175227">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="347" y="12" width="916" height="738" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1576405059855" />
+    <state x="347" y="12" width="916" height="738" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1576506175227" />
     <state x="482" y="160" key="chooseDestDirectoryDialog" timestamp="1576390101609">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -252,9 +251,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="259" y="5" key="editAsTableFormatDialogDimension/0.0.1366.768@0.0.1366.768" timestamp="1576403790289" />
-    <state x="731" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1576412972905">
+    <state x="731" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1576590346166">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="731" y="269" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1576412972905" />
+    <state x="731" y="269" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1576590346166" />
   </component>
 </project>
