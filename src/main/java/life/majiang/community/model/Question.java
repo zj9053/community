@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**问题描述类*/
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
@@ -19,3 +20,5 @@ public class Question {
     private Integer commentCount;
     private Integer likeCount;
 }
+
+
