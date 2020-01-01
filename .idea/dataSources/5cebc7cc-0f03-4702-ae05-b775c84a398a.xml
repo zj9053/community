@@ -1008,7 +1008,17 @@
       <DataType>bigint(20)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="249" parent="231" name="PRIMARY">
+    <column id="249" parent="231" name="bio">
+      <Position>7</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="250" parent="231" name="avatar_url">
+      <Position>8</Position>
+      <DataType>varchar(100)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <key id="251" parent="231" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>
