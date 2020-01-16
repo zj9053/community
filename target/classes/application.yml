@@ -1,7 +1,6 @@
 server:
   port: 8887
 
-
 github:
   client:
     id: f01d814b8e478cff6471
@@ -11,6 +10,9 @@ github:
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/community?characterEncoding=utf8
+    url: jdbc:mysql://127.0.0.1:3306/community?characterEncoding=utf8&useSSL=false
     username: root
     password: root
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
